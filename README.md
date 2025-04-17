@@ -1,24 +1,18 @@
----Project Name :- CSI
+# Human Resource Management System
 
-#### Human Resource Management System 
--- Designed and Developed to manage Human Resource Activites for a Institution
+**1st Year – Semester Project**
 
-#### Admin Features
-- Manage Users
-- Login
+## Overview
+A desktop application built using Java and OOP concepts. The system helps manage employee records, departments, and user profiles.
 
-#### Employer Features
-- Manage Employees, Departments, Desginations
-- Login
+## User Roles
 
-#### Admin Features
-- Manage Profile
-- Login
+### Admin
+- Manage user accounts
 
-##### Technoglogies Used
-- Java
-- Java Swing
-- MySQL
+### HR
+- Manage employees
+- Manage departments
 
-
-
+### Employee
+- View and update profile
